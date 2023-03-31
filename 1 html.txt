@@ -13,8 +13,7 @@
 
 Привет мир!!! <BR>
 Программирование сайтов и веб-дизайн
-
-body TEXT: #00FFFF
+<body TEXT: #00FFFF>
 BGCOLOR: #90EE90
 <HR SIZE=3>
 
