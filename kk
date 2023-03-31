@@ -1,31 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@julls 
-LegionAlpha
-/
-eduwebform.github.io
-Public
-Fork your own copy of LegionAlpha/eduwebform.github.io
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-eduwebform.github.io/index.html
-
-semenov.daniil -
-Latest commit a35f031 last week
- History
- 0 contributors
-159 lines (137 sloc)  6.02 KB
 
 <!DOCTYPE html>
 <html lang="en">
